@@ -21,4 +21,4 @@ protocol stack to the historian — built by Imbra, owned by the plants that run
 
 ## Contact
 
-[imbra.io](https://imbra.io) · [contact@imbra.io](mailto:contact@imbra.io) · [Pricing](https://imbra.io/pricing/) · [Branimir Georgiev](https://linkedin.com/in/branimir-georgiev)
+[imbra.io](https://imbra.io) · [contact@imbra.io](mailto:contact@imbra.io)
