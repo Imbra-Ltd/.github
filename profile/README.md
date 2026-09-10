@@ -2,7 +2,7 @@
 
 **Complex inside. Simple outside.**
 
-A one-engineer software consultancy for industrial companies. We build, integrate,
+A boutique software consultancy for industrial companies. We build, integrate,
 and support the software between plant floor and IT — protocol stacks and test
 tooling, data integration and historians, the legacy systems nobody else will
 touch — on published rates or at a fixed price.
